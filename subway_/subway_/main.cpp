@@ -1,3 +1,6 @@
+#define _USE_CRT_NO_WARINGINS
+
+
 #include <stdio.h>
 
 using namespace std;
@@ -5,9 +8,7 @@ using namespace std;
 
 int main() {
 
-	while (1) {
-
-	}
+	printf("test\n");
 
 	return 0;
 }
