@@ -1,4 +1,4 @@
-#define _USE_CRT_NO_WARINGINS
+#define _CRT_SECURE_NO_WARINGINS
 #define HASHTABLE_SIZE 20
 #define ID_SIZE 10
 #define NAME_SIZE 20
